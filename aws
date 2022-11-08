@@ -1,0 +1,5 @@
+public ary{
+ public static void main string ary []{
+   boolean x =true ;
+  boolean y = flase ;
+   System.out.println(x);
